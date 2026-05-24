@@ -1,0 +1,14 @@
+# HFSS 仿真缓存和结果
+*.lock
+*.auto
+Simulation/bigProject.aedtresults/
+
+# VS Code 设置
+.vscode/
+
+# PDF 论文（文件较大，不上传）
+*.pdf
+
+# Python 缓存
+__pycache__/
+*.pyc
