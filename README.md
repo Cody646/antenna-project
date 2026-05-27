@@ -18,6 +18,6 @@
 ## 📂 项目结构
 ```text
 ├── Theory/           # 洛伦兹模型推导及数学计算 (MATLAB)
-├── Simulation/       # CST 仿真模型文件 (.cst)
+├── Simulation/       # HFSS 仿真模型文件 (.cst)
 ├── Results/          # 提取的 S参数、增益、方向图数据
 └── README.md         # 项目说明文档
